@@ -14,7 +14,7 @@
   "license": "ISC",
   "dependencies": {
     "moment": "^2.25.1",
-    "mongodb": "^3.5.3",
+    "mongodb": "^3.5.9",
     "slimbot": "^4.6.0"
   },
   "devDependencies": {
